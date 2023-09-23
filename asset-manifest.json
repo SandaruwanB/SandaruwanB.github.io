@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.32f0fa7a.css",
-    "main.js": "/static/js/main.0a5010ed.js",
+    "main.js": "/static/js/main.7cb81eea.js",
     "static/media/profile.jpeg": "/static/media/profile.9af69505cbe85a772b7c.jpeg",
     "static/media/Inter-Black.ttf": "/static/media/Inter-Black.83d81b169bedf85385f2.ttf",
     "static/media/Montserrat-Black.ttf": "/static/media/Montserrat-Black.beacc26b4bbaaf608567.ttf",
@@ -10,10 +10,10 @@
     "static/media/Mooli-Regular.ttf": "/static/media/Mooli-Regular.1180a5b80df79ab5d71f.ttf",
     "index.html": "/index.html",
     "main.32f0fa7a.css.map": "/static/css/main.32f0fa7a.css.map",
-    "main.0a5010ed.js.map": "/static/js/main.0a5010ed.js.map"
+    "main.7cb81eea.js.map": "/static/js/main.7cb81eea.js.map"
   },
   "entrypoints": [
     "static/css/main.32f0fa7a.css",
-    "static/js/main.0a5010ed.js"
+    "static/js/main.7cb81eea.js"
   ]
 }
