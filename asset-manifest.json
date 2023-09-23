@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.32f0fa7a.css",
+    "main.js": "/static/js/main.0a5010ed.js",
+    "static/media/profile.jpeg": "/static/media/profile.9af69505cbe85a772b7c.jpeg",
+    "static/media/Inter-Black.ttf": "/static/media/Inter-Black.83d81b169bedf85385f2.ttf",
+    "static/media/Montserrat-Black.ttf": "/static/media/Montserrat-Black.beacc26b4bbaaf608567.ttf",
+    "static/media/Montserrat-Medium.ttf": "/static/media/Montserrat-Medium.b8c6753baa964ccac1ba.ttf",
+    "static/media/Poppins-Light.ttf": "/static/media/Poppins-Light.7641a0f76ca9ef6c252c.ttf",
+    "static/media/Mooli-Regular.ttf": "/static/media/Mooli-Regular.1180a5b80df79ab5d71f.ttf",
+    "index.html": "/index.html",
+    "main.32f0fa7a.css.map": "/static/css/main.32f0fa7a.css.map",
+    "main.0a5010ed.js.map": "/static/js/main.0a5010ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32f0fa7a.css",
+    "static/js/main.0a5010ed.js"
+  ]
+}
